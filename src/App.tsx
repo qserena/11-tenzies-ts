@@ -65,14 +65,14 @@ function App() {
     return (
         <main>
             {tenzies && <Confetti />}
-            <h1 className="title">Tio Samma</h1>
+            <h1 className="title">Tenzies</h1>
             <p className="instructions">
-                Slå tills alla tärningar visar samma. Klicka på varje tärning
-                för att frysa aktuellt värde mellan slagen.
+                Roll until all dice are the same. Click each die to freeze it at
+                its current value between rolls.
             </p>
             <div className="dice-container">{diceElements}</div>
             <button className="roll-btn" id="roll-btn" onClick={handleClick}>
-                {tenzies ? 'Spela igen' : 'Slå'}
+                {tenzies ? 'New Game' : 'Roll'}
             </button>
         </main>
     )
