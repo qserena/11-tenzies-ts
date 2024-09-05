@@ -15,7 +15,6 @@ When you accomplish this a great firework will appear on your screen!
 
 -   HTML
 -   CSS
--   JavaScript
 -   TypeScript
 -   React
 
