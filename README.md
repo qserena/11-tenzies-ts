@@ -1,5 +1,8 @@
 # Tenzies - a game with dice
 
+## Background
+This is one of the challenges in Scrimba's <a href="https://v2.scrimba.com/the-frontend-developer-career-path-c0j">The Frontend Developer Career Path</a>, module <em><strong>React Basics.</strong></em> 
+
 ## Description
 
 Click the **Roll** button to get new numbers. Click the numbers you want to keep.
