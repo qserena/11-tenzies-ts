@@ -5,7 +5,7 @@ This is one of the challenges in Scrimba's <a href="https://v2.scrimba.com/the-f
 
 ## Description
 
-Click the **Roll** button to get new numbers. Click the numbers you want to keep.
+Click the ***Roll*** button to get new numbers. Click the numbers you want to keep.
 
 Roll until you get all dice the same!
 
